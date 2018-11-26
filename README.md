@@ -2,7 +2,7 @@
 A simple guessing game in which the user must guess a number between 1 and 100.
 
      import java.util.Scanner;
-     public class HomeworkThree {
+     public class HiLowGame {
           public static void main(String[] args ) {
           /**In this code, the user will interact with the program in order to play a guessing game.
           * To achieve this, it will use Math.random(), a while loop, and the Scanner for user input.
